@@ -35,7 +35,7 @@ The dataset consists of ER patient records covering:
 ✅ **Targeted Healthcare Programs:** Address needs of high-risk age groups and demographics.
 
 ## 🛠️ Tools & Technologies
-- **Tableau** (for interactive dashboards)
+- **Power BI** (for interactive dashboards)
 - **Python (Pandas, NumPy)** (for data preprocessing)
 - **SQL** (for data extraction and queries)
 
@@ -44,7 +44,7 @@ The dataset consists of ER patient records covering:
    ```sh
    git clone https://github.com/Priti1407/Hospital-Emergency-Room-Dashboard.git
    ```
-2. Open the Tableau workbook to interact with visualizations.
+2. Open the Power BI workbook to interact with visualizations.
 3. Use provided Python scripts for additional data analysis.
 
 ## 🏥 Conclusion
